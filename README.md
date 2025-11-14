@@ -1,0 +1,4 @@
+# EFI-RYZEN-7-7700
+EFI macOS Sequoia/tahoe
+GIGABYTE B650M H
+AMD Radeon RX 570/ RX 6800 XT
